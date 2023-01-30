@@ -1,2 +1,4 @@
 # QA---Selenium
-Wlecome to git to practice
+
+Take a pull request 
+
